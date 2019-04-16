@@ -1,0 +1,17 @@
+.input{
+    border-style: solid;
+    border-width: 1px;
+}
+.field-wrap {
+    width: 100%;
+  }
+  .field-wrap input {
+    width: 100%;
+    display: inline-block
+  }
+  .inputGroup{
+      padding: 20px;
+  }
+  .add_todo{
+      margin-left: 10px;
+  }
